@@ -1,4 +1,9 @@
-# ticketingSystem
+# Contributors
+Ryan WoodWorth
+Manuel
+Jonathan Bajada
+
+# Ticketing System
 
 A basic command line ticket system built for CPS707: Software Verification & Validation
 
