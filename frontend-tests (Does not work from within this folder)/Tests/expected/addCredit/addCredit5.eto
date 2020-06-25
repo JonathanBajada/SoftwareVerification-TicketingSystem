@@ -1,0 +1,46 @@
+Welcome to the Tix ticketing system, please enter one of the following options.
+ 1. create 
+ 2. login 
+ 3. logout 
+ 4. delete 
+ 5. sell 
+ 6. buy 
+ 7. refund 
+ 8. addcredit 
+ 9. quit
+Please enter your username to login 
+Successfully logged in as: admin
+Welcome to the Tix ticketing system, please enter one of the following options.
+ 1. create 
+ 2. login 
+ 3. logout 
+ 4. delete 
+ 5. sell 
+ 6. buy 
+ 7. refund 
+ 8. addcredit 
+ 9. quit
+Enter the name of user to add credit to: 
+Enter the amount of credit to add: 
+Amount of credit cannot exceed 1000 and cannot be negative.
+Welcome to the Tix ticketing system, please enter one of the following options.
+ 1. create 
+ 2. login 
+ 3. logout 
+ 4. delete 
+ 5. sell 
+ 6. buy 
+ 7. refund 
+ 8. addcredit 
+ 9. quit
+You have successfully logged out
+Welcome to the Tix ticketing system, please enter one of the following options.
+ 1. create 
+ 2. login 
+ 3. logout 
+ 4. delete 
+ 5. sell 
+ 6. buy 
+ 7. refund 
+ 8. addcredit 
+ 9. quit
