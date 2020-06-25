@@ -1,6 +1,6 @@
 # Contributors
-Ryan WoodWorth
-Manuel
+Ryan Woodworth,
+Manuel,
 Jonathan Bajada
 
 # Ticketing System
